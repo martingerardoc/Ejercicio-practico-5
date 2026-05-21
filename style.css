@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 30px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.consigna {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #125ca1;
+}
+
+#pantalla {
+  background-color: white;
+  min-height: 250px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.mensaje {
+  background-color: #e3f2fd;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
